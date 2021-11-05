@@ -1,7 +1,7 @@
 <svelte:head>
     <title>What makes a Big Climate Impact candidate?</title>
 </svelte:head>
-<article class="prose">
+<article class="prose mx-auto">
     <h1>What makes a Big Climate Impact candidate?</h1>
     <p>Whether a candidate is Democratic, Republican, or a third party, we'd be
         happy to recommend them if they are proposing realistic paths to

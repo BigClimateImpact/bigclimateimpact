@@ -3,7 +3,7 @@
 </script>
 <!-- Try some classes here -->
 <h1 class="uppercase text-indigo-500">
-  Big Climate Impact
+  <a href="/">Big Climate Impact</a>
 </h1>
 
 <slot></slot>
