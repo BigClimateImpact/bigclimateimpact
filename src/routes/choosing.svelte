@@ -60,4 +60,6 @@
         forward with clean energy. These people will not find support on this
         site.
     </p>
+    <p>Conversely, we <em>will</em> support candidates who have stood up
+    for democracy over those that don't.</p>
 </article>

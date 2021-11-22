@@ -43,4 +43,10 @@
         any gains would be <em>crushed</em> if you vote for a candidate who
         <a href="choosing">votes against policies to address climate change</a>.
     </p>
+    <h2>Vote!</h2>
+    <p>From late 2021 through November 2022, supporting candidates who
+        will address climate change and voting for them (starting in the
+        primaries!) is the most important thing <em>you</em> can do. After
+        that, we can look for the next step.
+    </p>
 </article>
