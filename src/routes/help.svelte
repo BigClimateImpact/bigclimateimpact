@@ -11,28 +11,25 @@
 </p>
 
 <ul>
-    <li>Web design</li>
+    <li>Design</li>
     <li>Candidate data update</li>
 </ul>
 
-<h2>Web design</h2>
+<h2>Design</h2>
 
-<p>I'm not a designer and this site does not look as good as it can.
-    It looks better than some of the candidate's sites that I've seen,
-    but the topic deserves better.
+<p>We need a better logo and the site design can use some improvement.
 </p>
 
 <h2>Candidate data update</h2>
 
-<p>As of November 20, 2021, we've got data files that include basic
+<p>As of November 20, 2021, we've got a database that includes basic
     information for more than 1,000 candidates for the US House of
     Representatives. Many incumbents haven't even announced their
-    candidacy yet. There are thousands more state representative and
-    senate candidates that need records added.
+    candidacy yet.
 </p>
 
 <p>Once we have the basic records, we need to start searching for the
     candidates to find out how well they match up against our
-    criteria for <a href="choosing" style="text-underline">choosing</a> the best.
+    criteria for <a href="choosing" style="link">choosing</a> the best.
 </p>
 </article>
