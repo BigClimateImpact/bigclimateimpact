@@ -1,10 +1,14 @@
 <script>
   import "../styles/tailwind-output.css";
 </script>
-<!-- Try some classes here -->
-<h1 class="uppercase text-center text-5xl border-b-2 border-red-500 mt-4 mb-8" style="font-family: Comfortaa, Helvetica, sans-serif">
-  <a href="/"><span class="text-red-500">Big </span><span class="text-white bg-gray-500"> Climate </span><span class="text-blue-500">Impact</span></a>
-</h1>
+
+<div class="navbar mb-2 shadow-lg bg-neutral text-center text-neutral-content border-b-2 border-b-red-500">
+  <div class="px-2 mx-auto">
+    <span class="text-5xl font-bold uppercase" style="font-family: Comfortaa, sans">
+      <a href="/"><span class="text-red-500">Big </span><span class="text-white"> Climate </span><span class="text-blue-500">Impact</span></a>
+          </span>
+  </div>
+</div>
 
 <slot></slot>
 
