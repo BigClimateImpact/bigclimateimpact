@@ -29,7 +29,6 @@
   },
   "type": "module",
   "dependencies": {
-    "daisyui": "^1.16.2",
-    "layercake": "^5.0.0"
+    "daisyui": "^1.16.2"
   }
 }
