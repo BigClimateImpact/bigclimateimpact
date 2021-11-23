@@ -8,7 +8,7 @@
 
 <slot></slot>
 
-<div class="flex flex-row w-full place-content-center mt-4 mb-8">
+<div class="flex flex-row w-full place-content-center mt mb-8">
   <div><a href="/help">Help Out</a></div>
   <div class="divider divider-vertical"></div>
   <div><a href="https://bigclimateimpact.substack.com">Newsletter</a></div>

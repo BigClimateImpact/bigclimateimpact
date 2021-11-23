@@ -14,7 +14,7 @@
 					d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
 				/>
 			</svg>
-			<div>We're just getting started and <a href="/help" class="link">need your help</a>.</div>
+			<div>National note: The <a href="/bbb21" class="link">Build Back Better Act</a> represents a huge opportunity to address climate change right now.</div>
 		</div>
 	</div>
 
