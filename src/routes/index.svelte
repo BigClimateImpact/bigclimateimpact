@@ -42,7 +42,7 @@
                     Even more? How much does it need?
                 </p>
                 <div class="card-actions">
-                    <a class="btn btn-primary" href="/economics">Learn about the economics</a>
+                    <a class="btn btn-primary" href="/economics">Learn</a>
                 </div>
             </div>
         </div>

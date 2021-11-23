@@ -1,16 +1,14 @@
 <svelte:head>
-    <title>Big Impact Climate Change in Alabama</title>
+    <title>Address Climate Change in Alabama</title>
 </svelte:head>
 
-<article class="prose mx-auto">
+<script>
+    import DateBlock from '$lib/DateBlock.svelte'
+</script>
+
     <h1>Alabama</h1>
     <p>Updated: November 20, 2021</p>
-    <h2>Dates to remember</h2>
-    <ul>
-        <li>Primary: <b>May 24, 2022</b></li>
-        <li>Runoff: <b>June 21, 2022</b></li>
-        <li>General: <b>November 8, 2022</b></li>
-    </ul>
+    <DateBlock primary={new Date(2022, 4, 24)} runoff={new Date(2022, 5, 21)} general={new Date(2022, 10, 8)}></DateBlock>
     <h2>Recommendations for Alabama's primary elections</h2>
     <p>As of this writing, there is only one candidate in Alabama that
         we can definitively recommend: <b>Terell Anderson</b> in the
@@ -19,4 +17,3 @@
         Mr. Anderson's primary opponents have not announced concrete
         climate change plans.
     </p>
-</article>
