@@ -15,6 +15,12 @@
     <li>Design</li>
 </ul>
 
+<p>There's a third way to help that will be coming up soon: social media help.
+    We've got Reddit, Twitter, Instagram, a Facebook page, a YouTube channel, a
+    Substack, and maybe others that I'm forgetting. One person can't keep up
+    with all of those channels.
+</p>
+
 <h2>Candidate data update</h2>
 
 <p>As of November 20, 2021, we've got a database that includes basic
