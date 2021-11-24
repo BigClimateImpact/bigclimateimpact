@@ -9,7 +9,7 @@
         proven track record!
     </p>
     <p>Of course, it's not <em>quite</em> that simple, because we want to use
-        our votes strategically to make a big impact.
+        our votes strategically to maximize our impact.
     </p>
     <h2>1. How they approach climate change</h2>
     <p>There are at least three main categories of candidates on the issue
@@ -32,8 +32,8 @@
     <p>We really <em>do</em> need to worry about those who claim to support
         efforts to combat climate change but offer up non-solutions like
         <a href="https://www.factcheck.org/2018/11/clearing-up-the-facts-behind-trumps-clean-coal-catchphrase/">"clean coal"</a>
-        or technologies that are nowhere near capable of solving the problem
-        like carbon capture. These people are a grave threat to addressing
+        or technologies that in combination are nowhere near capable of solving the problem
+        like carbon capture + nuclear. These people are a grave threat to addressing
         climate change, because they'll draw attention away from real solutions.
     </p>
     <p>So, as a first cut, the candidate needs to support real solutions. That
@@ -49,17 +49,19 @@
     <p>There may be a candidate who doesn't have a good plan for climate but
         whose election will provide more power to others who do through
         things like committee assignments. Barring a better candidate showing
-        up, we could still support them.
+        up, we may still support them.
     </p>
     <h2>3. We will not support an anti-democracy candidate</h2>
     <p>A disturbing number of candidates support baseless claims of widespread
         voter fraud and seek to make voting more difficult for millions of
         legitimate voters (a majority of whom they believe wouldn't vote for
-        them). Such candidates would be bad for America, and almost certainly
-        fall in behind the financial interests who stand opposed to moving
-        forward with clean energy. These people will not find support on this
+        them). Such candidates would be bad for America, and they all <em>also</em>
+        seem to have no desire to address climate change. These people will not find support on this
         site.
     </p>
     <p>Conversely, we <em>will</em> support candidates who have stood up
-    for democracy over those that don't.</p>
+    for democracy over those that don't. Sometimes, voting for one of these
+    candidates even if they don't have a plan for climate change will be
+    our best course of action.
+</p>
 </article>

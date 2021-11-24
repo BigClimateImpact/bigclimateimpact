@@ -13,6 +13,14 @@
         change <em>right now</em> is to support <em>and vote for</em> candidates
         who take the issue seriously.
     </p>
+    <div class="alert alert-info">
+        <div class="flex-1">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <div>The above is generally true, but there is a special opportunity at this moment: The Build Back Better Act. <a href="/bbb21">Read about it here.</a></div>
+        </div>
+      </div>
     <h2>A great video on the subject</h2>
     <p>YouTube channel "Kurzgesagt — In a Nutshell" made a terrific video asking
         the question: <a href="https://www.youtube.com/watch?v=yiw6_JakZFc">Can YOU fix climate change?</a>.
@@ -32,7 +40,7 @@
         greenhouse gas emissions.
     </p>
     <p>But you <em>do</em> have one really large lever you can pull to
-        deal with climate change: your vote! Our political leaders at the
+        deal with climate change: Your vote! Our political leaders at the
         federal, state, and local levels can create policies around
         electricity generation, help make it cheaper to buy electric cars,
         help fund development of technologies to help remove carbon from the
@@ -43,10 +51,12 @@
         any gains would be <em>crushed</em> if you vote for a candidate who
         <a href="choosing">votes against policies to address climate change</a>.
     </p>
-    <h2>Vote!</h2>
-    <p>From late 2021 through November 2022, supporting candidates who
-        will address climate change and voting for them (starting in the
-        primaries!) is the most important thing <em>you</em> can do. After
-        that, we can look for the next step.
+    <h2>Support candidates, vote in primaries</h2>
+    <p>After you've taken the step of showing your support for
+        the <a href="/bbb21">Build Back Better Act</a>, there's a lot
+        you can do to support candidates who will take the next steps
+        against climate change. <a href="/">Find your state</a> and read
+        about the candidates who seek to do the work to fight climate
+        change.
     </p>
 </article>
