@@ -72,7 +72,7 @@
 
 <h2 class="text-4xl m-8 text-blue-500 font-bold">Find your state, make an impact.</h2>
 <div class="mx-auto">
-    <ul class="grid grid-cols-2 text-center md:grid-cols-3">
+    <ul class="grid grid-cols-2 text-center sm:grid-cols-3">
         <li><a href="/states/Alabama">Alabama</a></li>
         <li><a href="/states/Alaska">Alaska</a></li>
         <li><a href="/states/Arizona">Arizona</a></li>

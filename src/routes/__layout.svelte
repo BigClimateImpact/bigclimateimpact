@@ -13,7 +13,7 @@
 <slot></slot>
 
 <div class="py-4 artboard artboard-demo bg-base-200">
-  <ul class="menu px-3 shadow-lg bg-base-100 rounded-box horizontal">
+  <ul class="menu px-3 shadow-lg bg-base-100 rounded-box sm:horizontal">
     <li>
       <a href="/help">
         Help Out
@@ -32,5 +32,6 @@
     <li>
       <a href="https://twitter.com/Big_Climate">Twitter</a>
     </li>
+    <li><a href="/colophon">Colophon</a></li>
   </ul>
 </div>

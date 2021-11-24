@@ -1942,7 +1942,120 @@ html {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+@media (min-width: 640px) {
+
+  .menu.sm\:horizontal {
+    display: inline-flex;
+    flex-direction: row;
+  }
+
+  .menu.sm\:horizontal :where(li) {
+    flex-direction: row;
+  }
+
+  .menu.horizontal li.sm\:bordered>a,.menu.horizontal li.sm\:bordered>span {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--p)/var(--tw-border-opacity,1));
+    border-left-width: 0;
+    border-bottom-width: 4px;
+  }
+
+  .menu.horizontal li.sm\:bordered>a,.menu.horizontal li.sm\:bordered>span {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--p)/var(--tw-border-opacity,1));
+    border-left-width: 0;
+    border-bottom-width: 4px;
+  }
+
+  .artboard.phone-1.sm\:horizontal {
+    width: 568px;
+    height: 320px;
+  }
+
+  .artboard.phone-2.sm\:horizontal {
+    width: 667px;
+    height: 375px;
+  }
+
+  .artboard.phone-3.sm\:horizontal {
+    width: 736px;
+    height: 414px;
+  }
+
+  .artboard.phone-4.sm\:horizontal {
+    width: 812px;
+    height: 375px;
+  }
+
+  .artboard.phone-5.sm\:horizontal {
+    width: 896px;
+    height: 414px;
+  }
+
+  .artboard.phone-6.sm\:horizontal {
+    width: 1024px;
+    height: 320px;
+  }
+
+  .sm\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
 @media (min-width: 768px) {
+
+  .menu.md\:horizontal {
+    display: inline-flex;
+    flex-direction: row;
+  }
+
+  .menu.md\:horizontal :where(li) {
+    flex-direction: row;
+  }
+
+  .menu.horizontal li.md\:bordered>a,.menu.horizontal li.md\:bordered>span {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--p)/var(--tw-border-opacity,1));
+    border-left-width: 0;
+    border-bottom-width: 4px;
+  }
+
+  .menu.horizontal li.md\:bordered>a,.menu.horizontal li.md\:bordered>span {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--p)/var(--tw-border-opacity,1));
+    border-left-width: 0;
+    border-bottom-width: 4px;
+  }
+
+  .artboard.phone-1.md\:horizontal {
+    width: 568px;
+    height: 320px;
+  }
+
+  .artboard.phone-2.md\:horizontal {
+    width: 667px;
+    height: 375px;
+  }
+
+  .artboard.phone-3.md\:horizontal {
+    width: 736px;
+    height: 414px;
+  }
+
+  .artboard.phone-4.md\:horizontal {
+    width: 812px;
+    height: 375px;
+  }
+
+  .artboard.phone-5.md\:horizontal {
+    width: 896px;
+    height: 414px;
+  }
+
+  .artboard.phone-6.md\:horizontal {
+    width: 1024px;
+    height: 320px;
+  }
 
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
