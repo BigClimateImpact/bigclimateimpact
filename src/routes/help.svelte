@@ -11,14 +11,9 @@
 </p>
 
 <ul>
-    <li>Design</li>
     <li>Candidate data update</li>
+    <li>Design</li>
 </ul>
-
-<h2>Design</h2>
-
-<p>We need a better logo and the site design can use some improvement.
-</p>
 
 <h2>Candidate data update</h2>
 
@@ -32,4 +27,15 @@
     candidates to find out how well they match up against our
     criteria for <a href="choosing" style="link">choosing</a> the best.
 </p>
+<p>If you want to help out with gathering data about candidates,
+    <a href="https://form.jotform.com/213268515613050">fill out this form</a>
+    and be sure to <a href="https://reddit.com/r/BigClimateImpact">join the subreddit</a>
+    to coordinate.
+</p>
+
+<h2>Design</h2>
+
+<p>We need a better logo and the site design can use some improvement.
+</p>
+
 </article>
