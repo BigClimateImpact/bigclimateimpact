@@ -12,14 +12,25 @@
 
 <slot></slot>
 
-<div class="flex flex-row w-full place-content-center mt mb-8">
-  <div><a href="/help">Help Out</a></div>
-  <div class="divider divider-vertical"></div>
-  <div><a href="https://bigclimateimpact.substack.com">Newsletter</a></div>
-  <div class="divider divider-vertical"></div>
-  <div><a href="https://reddit.com/r/BigClimateImpact">Discussion</a></div>
-  <div class="divider divider-vertical"></div>
-  <div><a href="https://twitter.com/Big_Climate">Twitter</a></div>
-  <div class="divider divider-vertical"></div>
-  <div><a href="/colophon">Colophon</a></div>
+<div class="py-4 artboard artboard-demo bg-base-200">
+  <ul class="menu px-3 shadow-lg bg-base-100 rounded-box horizontal">
+    <li>
+      <a href="/help">
+        Help Out
+      </a>
+    </li>
+    <li>
+      <a href="https://bigclimateimpact.substack.com">
+        Newsletter
+      </a>
+    </li>
+    <li>
+      <a href="https://reddit.com/r/BigClimateImpact">
+        Discussion
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/Big_Climate">Twitter</a>
+    </li>
+  </ul>
 </div>
