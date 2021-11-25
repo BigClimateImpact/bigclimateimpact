@@ -19,26 +19,28 @@
         <li>Supports a wide-variety of steps to reach net zero emissions
             rapidly.
         </li>
+        <li>Has a platform of natural gas, nuclear and carbon capture.</li>
         <li>Questions the "science" of climate change, instead talking about
             "natural cycles".
         </li>
-        <li>Has a platform of "clean coal" and carbon capture.</li>
     </ol>
+    <p>The first is the best. People will have arguments about which approaches
+        to take and how much money to put toward each, but plans that reflect
+        the far-reaching changes required are all worth discussing.
+    </p>
+    <p>We need to keep a close eye on those that believe the science of climate
+        change but offer up bogus or inadequate solutions.
+        People pitching <a href="https://www.factcheck.org/2018/11/clearing-up-the-facts-behind-trumps-clean-coal-catchphrase/">"clean coal"</a>
+        are not serious. People pushing for natural gas exports, nuclear, and
+        carbon capture are at least discussing approaches that will reduce
+        CO2 emissions and there's some hope that we can talk to them into more
+        later.
+    </p>
     <p>A majority of Americans believe that <a href="https://www.nbcnews.com/politics/meet-the-press/global-warming-perceptions-states-more-americans-accept-fault-n1265213">global warming is caused by
         human activity</a> and <a href="https://www.theverge.com/2021/5/26/22454633/pew-research-american-attitudes-climate-change-fossil-fuels-renewable-energy">close to two-thirds see it as an urgent problem to address</a>.
-        That means we don't really need to worry about those people who are still
-        claiming that it's not happening.
-    </p>
-    <p>We really <em>do</em> need to worry about those who claim to support
-        efforts to combat climate change but offer up non-solutions like
-        <a href="https://www.factcheck.org/2018/11/clearing-up-the-facts-behind-trumps-clean-coal-catchphrase/">"clean coal"</a>
-        or technologies that in combination are nowhere near capable of solving the problem
-        like carbon capture + nuclear. These people are a grave threat to addressing
-        climate change, because they'll draw attention away from real solutions.
-    </p>
-    <p>So, as a first cut, the candidate needs to support real solutions. That
-        said, we may still support candidates who fall into the next categories,
-        but we'll make the reason for our support clear.
+        Those that are claiming it's not happening are already in a shrinking
+        minority, but they're still going to be impossible to work with to
+        get anything done.
     </p>
     <h2>2. Electability and ability to boost other BCI candidates</h2>
     <p>Without a doubt, there will be third party candidates with worthy
