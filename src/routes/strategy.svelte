@@ -6,22 +6,20 @@
     <p>You may have a whole long list of ways you've heard to reduce your
         greenhouse gas emissions. Everything from eating less meat to adding
         solar panels to your house to getting an electric car. There <em>are</em>
-        many things like that which you can do, but none of them are going to have
-        a big impact.
+        many things like that which you can do, but these kinds of individual
+        actions will be just a drop in a very big bucket.
     </p>
     <p>The biggest thing that you, as an American citizen, can do to address climate
-        change <em>right now</em> is to support <em>and vote for</em> candidates
-        who take the issue seriously.
+        change <em>right now</em> is to support and vote for candidates
+        who take the issue seriously and actively support legislation that puts
+        us on a path to net zero emissions.
     </p>
-    <div class="alert alert-info">
-        <div class="flex-1">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-          </svg>
-          <div>The above is generally true, but there is a special opportunity at this moment: The Build Back Better Act. <a href="/bbb21">Read about it here.</a></div>
-        </div>
-      </div>
-    <h2>A great video on the subject</h2>
+    <h2>Act now: Build Back Better</h2>
+    <p>In November/December 2021, you can express support for the most
+        substantial climate legislation to date: Build Back Better. Read
+        <a href="/bbb21">more about the act and how you can support it</a>.
+    </p>
+    <h2>Individual action won't do the job</h2>
     <p>YouTube channel "Kurzgesagt — In a Nutshell" made a terrific video asking
         the question: <a href="https://www.youtube.com/watch?v=yiw6_JakZFc">Can YOU fix climate change?</a>.
         Click below to watch, or read on if you just want a quick overview you
@@ -58,5 +56,17 @@
         against climate change. <a href="/">Find your state</a> and read
         about the candidates who seek to do the work to fight climate
         change.
+    </p>
+    <h2>Big companies also have power over how we get our power</h2>
+    <p>While the government has the greatest ability to change how
+        Americans get their electricity, large companies use <em>a lot</em>
+        of power and can push utilities to shift to renewables.
+        One estimate puts the corporate sector at <a href="https://ihsmarkit.com/research-analysis/corporate-us-renewable-procurement-outlook-optimism.html">20% of utility-scale renewable additions</a>
+        over the next decade.
+    </p>
+    <p>So, if you happen to work for a large company, raising awareness within
+        your organization and encouraging movement toward reducing emissions at
+        the corporate level is another lever you have access to that can have
+        far more impact than your individual purchase choices.
     </p>
 </article>
