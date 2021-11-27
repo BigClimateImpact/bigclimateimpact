@@ -62,8 +62,9 @@
         site.
     </p>
     <p>Conversely, we <em>will</em> support candidates who have stood up
-    for democracy over those that don't. Sometimes, voting for one of these
-    candidates even if they don't have a plan for climate change will be
-    our best course of action.
-</p>
+        for democracy over those that don't. Sometimes, voting for one of these
+        candidates even if they don't have a plan for climate change will be
+        our best course of action. A majority of Americans support climate
+        action, but if we're subject to minority rule we're not likely to get it.
+    </p>
 </article>
