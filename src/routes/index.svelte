@@ -2,9 +2,26 @@
     <title>Big Climate Impact</title>
 </svelte:head>
 
-<h1 class="text-center text-5xl font-extrabold m-8">Choose <span class="text-blue-500">prosperity</span><br>
-    over peril.
+<h1 class="text-center text-5xl font-extrabold m-8">What can I do <span class="text-blue-500">right now</span><br>
+    to address climate change?
 </h1>
+
+<div class="prose mx-auto">
+    <p>This site is devoted to helping American citizens take meaningful action <em>now</em>
+        on climate change, especially when the most meaningful actions aren't
+        obvious. Subscribe to our <a href="https://bigclimateimpact.substack.com">
+            newsletter
+          </a> to stay up to date with our recommendations.
+    </p>
+    <ol>
+        <li><a href="/bbb21">Contact your Senator about Build Back Better</a></li>
+        <li>Find your state below to prepare for the upcoming primary elections</li>
+        <li>If you work for a large company, work with others to encourage the company to take climate action</li>
+        <li>Take individual action discussed everywhere else</li>
+    </ol>
+</div>
+
+
 <div class="grid grid-cols-1 gap-6 md:grid-cols-3 m-8">
     <section>
         <div class="card shadow-xl image-full">
@@ -70,15 +87,6 @@
     </section>
 </div>
 
-<h2 class="text-4xl m-8 text-blue-500 font-bold">What you can do right now</h2>
-<div class="prose mx-auto">
-<ol>
-    <li><a href="/bbb21">Contact your Senator about Build Back Better</a></li>
-    <li>Find your state below to prepare for the upcoming primary elections</li>
-    <li>If you work for a large company, work with others to encourage the company to take climate action</li>
-    <li>Take individual action discussed everywhere else</li>
-</ol>
-</div>
 
 <h2 class="text-4xl m-8 text-blue-500 font-bold">Find your state, make an impact.</h2>
 <div class="mx-auto">

@@ -32,6 +32,6 @@
     <li>
       <a href="https://twitter.com/Big_Climate">Twitter</a>
     </li>
-    <li><a href="/colophon">Colophon</a></li>
+    <li><a href="/about">About</a></li>
   </ul>
 </div>

@@ -1,8 +1,13 @@
 <svelte:head>
-    <title>Big Climate Impact: Colophon</title>
+    <title>Big Climate Impact: About</title>
 </svelte:head>
 
 <div class="prose mx-auto">
+    <h1>Who we are</h1>
+    <p>Big Climate Impact is a volunteer group, loosely organized online.
+        Our agenda is nothing other than promoting ways for Americans to
+        make the biggest impact on the climate change problem that they can.
+    </p>
     <h1>Thanks to the work of others that went into this site.</h1>
     <ul>
         <li>The heading is set in Comfortaa by Johan Aakerlund.

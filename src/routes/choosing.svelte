@@ -67,4 +67,21 @@
         our best course of action. A majority of Americans support climate
         action, but if we're subject to minority rule we're not likely to get it.
     </p>
+    <h2>Primaries vs. general election</h2>
+    <p>Who we recommend in primaries may be unexpected.</p>
+    <ul>
+        <li><b>Many people don't vote in primaries</b>, which means that it's
+            actually <em>easier</em> to have a big impact with your vote there.</li>
+        <li>There are many races around the country in which the winner of
+            the primary will almost certainly win the general election.
+        </li>
+    </ul>
+    <p>It's that second point that is critical for our primary picks: If we
+        <em>know</em> that a member of a given party is likely to win, we're
+        going to want to pick the best candidate from that party. This has
+        to be balanced against the fact that voters can only vote in a
+        single party's primary race, so it's possible there may be House
+        and Senate candidate choices from different parties. We'll work
+        to be as specific and useful as we can in our voter guides.
+    </p>
 </article>

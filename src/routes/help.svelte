@@ -12,24 +12,18 @@
 
 <ul>
     <li>Candidate data update</li>
-    <li>Design</li>
+    <li>Social media posting</li>
 </ul>
-
-<p>There's a third way to help that will be coming up soon: social media help.
-    We've got Reddit, Twitter, Instagram, a Facebook page, a YouTube channel, a
-    Substack, and maybe others that I'm forgetting. One person can't keep up
-    with all of those channels.
-</p>
 
 <h2>Candidate data update</h2>
 
-<p>As of November 20, 2021, we've got a database that includes basic
-    information for more than 1,000 candidates for the US House of
-    Representatives. Many incumbents haven't even announced their
-    candidacy yet.
+<p>As of December 18, 2021, we've got a database that includes basic
+    information for more than 2,000 candidates for state and federal
+    races across the country. Many candidates (including incumbents!)
+    haven't announced they're running yet.
 </p>
 
-<p>Once we have the basic records, we need to start searching for the
+<p>We need to start searching for the
     candidates to find out how well they match up against our
     criteria for <a href="choosing" style="link">choosing</a> the best.
 </p>
@@ -39,9 +33,16 @@
     to coordinate.
 </p>
 
-<h2>Design</h2>
-
-<p>We need a better logo and the site design can use some improvement.
+<h2>Social media posting</h2>
+<p>We've got Reddit, Twitter, Instagram, a Facebook page, a YouTube channel, a
+    Substack, and maybe others that I'm forgetting. One person can't keep up
+    with all of those channels. If you want to help kickstart our social media
+    efforts, reach out to <a href="https://twitter.com/dangoor">@dangoor</a>
+    on Twitter or <a href="https://www.reddit.com/user/dangoor">u/dangoor</a> on
+    Reddit.
 </p>
+<p>Most of our coordination is going to happen in
+    <a href="https://www.reddit.com/r/BigClimateImpact/">r/BigClimateImpact</a>,
+    so you should also feel free to post ideas there.</p>
 
 </article>

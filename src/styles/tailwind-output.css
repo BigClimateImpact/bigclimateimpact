@@ -1668,6 +1668,20 @@ html {
   border-radius: var(--rounded-box,1rem);
   box-shadow: 0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06);
 }
+.avatar.online:before {
+  content: "";
+  --tw-bg-opacity: 1;
+  background-color: hsla(var(--su)/var(--tw-bg-opacity,1));
+  border-radius: 9999px;
+  display: block;
+  position: absolute;
+  z-index: 10;
+  width: 15%;
+  height: 15%;
+  top: 7%;
+  right: 7%;
+  box-shadow: 0 0 0 2px hsl(var(--b1));
+}
 .float-right {
   float: right;
 }
