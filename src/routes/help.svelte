@@ -26,6 +26,8 @@
 <p>We need to start searching for the
     candidates to find out how well they match up against our
     criteria for <a href="choosing" style="link">choosing</a> the best.
+    Ideally, we'd have volunteers from each state who will follow up on the
+    data and recommendations for their state.
 </p>
 <p>If you want to help out with gathering data about candidates,
     <a href="https://form.jotform.com/213268515613050">fill out this form</a>

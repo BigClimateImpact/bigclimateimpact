@@ -10,6 +10,13 @@
             <div class="stat-value text-primary">1/10<sup>th</sup></div>
         </div>
     </div>
+    <p>Update for December 20, 2021: You may have seen the news that Senator
+        Manchin yesterday said that he won't support Build Back Better. Today,
+        Senate Majority Leader Schumer said that <a href="https://www.reuters.com/world/us/schumer-says-senate-vote-biden-plan-despite-manchin-objections-2021-12-20/">he's going to call for a
+        vote on BBB regardless</a>. So, keep up the pressure on the Senate
+        to try to get this to pass. If it doesn't, we'll need to pivot to
+        get the House to pass a new bill which can make it through the Senate.
+    </p>
     <p>On November 19, 2021, the House of Representatives <a href="https://www.nrdc.org/experts/manish-bapna/house-passes-historic-climate-action-build-back-better-act">passed the
         Build Back Better Act</a>, which is the most significant climate
         legislation passed to date. Now, it's in the Senate's hands, so

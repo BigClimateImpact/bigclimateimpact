@@ -14,7 +14,10 @@
           </a> to stay up to date with our recommendations.
     </p>
     <ol>
-        <li><a href="/bbb21">Contact your Senator about Build Back Better</a></li>
+        <li>Enjoy the holidays! Seriously. There will be a lot to do in 2022,
+            and Congress isn't working now.
+        </li>
+        <li><a href="/bbb21">Contact your Senator about Build Back Better (updated 12/20)</a></li>
         <li>Find your state below to prepare for the upcoming primary elections</li>
         <li>If you work for a large company, work with others to encourage the company to take climate action</li>
         <li>Take individual action discussed everywhere else</li>
@@ -107,7 +110,7 @@
         <li><a href="/states/Indiana">Indiana</a></li>
         <li><a href="/states/Iowa">Iowa</a></li>
         <li><a href="/states/Kansas">Kansas</a></li>
-        <li><a href="/states/Kentucky">Kentucky</a></li>
+        <li><a href="/states/Kentucky">Kentucky</a><span class="indicator-item badge badge-secondary"></span></li>
         <li><a href="/states/Louisiana">Louisiana</a></li>
         <li><a href="/states/Maine">Maine</a></li>
         <li><a href="/states/Maryland">Maryland</a></li>

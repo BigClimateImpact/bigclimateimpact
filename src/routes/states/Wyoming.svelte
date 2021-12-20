@@ -23,10 +23,13 @@
 <p>As of this writing, the only clear primary vote is a vote for Liz Cheney
     for Wyoming's US House seat. Cheney is not going to work to reduce
     fossil fuels, but she has stood up for democracy in America, unlike the
-    vast majority of her colleagues.</p>
+    vast majority of her colleagues, and so far no Wyoming Republican in the House race
+    has come forth with a climate plan.
+</p>
 <p>Wyoming <a href="https://oilcity.news/wyoming/legislature/2021/09/02/committee-hits-pause-on-proposal-to-create-open-primaries-in-wyoming/">does not have fully open primaries</a>,
     but does allow you to <a href="https://ballotpedia.org/Primary_elections_in_Wyoming">choose a party on election day</a>.
 </p>
 <p>We'll certainly want a more climate-friendly candidate in the general
-    election, but we have to be realistic about our chances there.
+    election, but we have to be realistic about our chances there (see
+    <a href="/choosing">how we choose candidates</a>).
 </p>
