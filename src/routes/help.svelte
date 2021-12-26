@@ -3,6 +3,9 @@
 </svelte:head>
 
 <article class="prose mx-auto">
+
+<br/>
+
 <h1>Two ways to help Big Climate Impact right now</h1>
 
 <p>Big Climate Impact is a volunteer project. The people working on it
