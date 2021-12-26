@@ -2,7 +2,7 @@
     <title>Big Climate Impact</title>
 </svelte:head>
 
-<h1 class="text-center text-5xl font-extrabold m-8">What can I do <span class="text-blue-500">right now</span><br>
+<h1 class="text-center text-5xl font-extrabold m-8">What can I do <span class="text-success">right now</span><br>
     to address climate change?
 </h1>
 
@@ -91,7 +91,7 @@
 </div>
 
 
-<h2 class="text-4xl m-8 text-blue-500 font-bold">Find your state, make an impact.</h2>
+<h2 class="text-4xl m-8 text-success font-bold">Find your state, make an impact.</h2>
 <div class="mx-auto">
     <ul class="grid grid-cols-2 text-center sm:grid-cols-3">
         <li><a href="/states/Alabama">Alabama</a></li>

@@ -27,7 +27,7 @@ html {
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
+  font-family: Overpass, ui-sans-serif, system-ui; /* 4 */
 }
 
 /*
@@ -385,30 +385,38 @@ html {
 }
 
 :root {
-  --p: 217 91.2% 59.8%;
-  --pf: 259 94.3% 41%;
-  --pc: 0 0% 100%;
-  --s: 258 89.5% 66.3%;
-  --sf: 314 100% 37.1%;
-  --sc: 0 0% 100%;
-  --a: 174 60% 51%;
-  --af: 174 59.8% 41%;
+  --p: 198 38.7% 26.9%;
+  --pf: 183 63.1% 32.9%;
+  --pc: 150 81.3% 79%;
+  --s: 150 81.3% 79%;
+  --sf: 140 66.4% 58%;
+  --sc: 198 38.7% 26.9%;
+  --a: 7 82.3% 71.2%;
+  --af: 6 82.2% 64.7%;
   --ac: 0 0% 100%;
-  --n: 219 14.1% 27.8%;
-  --nf: 222 13.4% 19%;
+  --n: 194 9.4% 27.3%;
+  --nf: 49 11.5% 62.4%;
   --nc: 0 0% 100%;
   --b1: 0 0% 100%;
   --b2: 210 20% 98%;
   --b3: 216 12.2% 83.9%;
-  --bc: 215 27.9% 16.9%;
+  --bc: 198 38.7% 26.9%;
   --in: 207 89.8% 53.9%;
-  --su: 174 100% 29%;
+  --su: 160 53.8% 43.3%;
   --wa: 36 100% 50%;
   --er: 14 100% 57.1%;
 }
     @font-face {
-      font-family: Comfortaa;
-      src: url("/Comfortaa-VariableFont_wght.ttf");
+      font-family: Signika;
+      src: url("/Signika-VariableFont_wght.ttf");
+    }
+    @font-face {
+      font-family: Overpass;
+      src: url("/Overpass-VariableFont_wght.ttf");
+    }
+    @font-face {
+      font-family: OverpassItalic;
+      src: url("/Overpass-Italic-VariableFont_wght.ttf");
     }
 .prose {
   color: #374151;
@@ -956,13 +964,6 @@ html {
   --tw-bg-opacity: var(--tw-border-opacity,0.1);
   background-color: hsla(var(--bc)/var(--tw-bg-opacity,1));
   height: .125rem;
-}
-.indicator {
-  display: inline-flex;
-  position: relative;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
 }
 .indicator .indicator-item {
   z-index: 1;
@@ -1903,17 +1904,17 @@ html {
 .border-b-2 {
   border-bottom-width: 2px;
 }
-.border-b-red-500 {
+.border-b-accent {
   --tw-border-opacity: 1;
-  border-bottom-color: rgb(239 68 68 / var(--tw-border-opacity));
+  border-bottom-color: hsla(var(--a) / var(--tw-border-opacity));
 }
 .bg-secondary {
   --tw-bg-opacity: 1;
   background-color: hsla(var(--s) / var(--tw-bg-opacity));
 }
-.bg-neutral {
+.bg-primary {
   --tw-bg-opacity: 1;
-  background-color: hsla(var(--n) / var(--tw-bg-opacity));
+  background-color: hsla(var(--p) / var(--tw-bg-opacity));
 }
 .bg-base-200 {
   --tw-bg-opacity: 1;
@@ -1952,14 +1953,14 @@ html {
   font-size: 2.25rem;
   line-height: 2.5rem;
 }
-.font-bold {
-  font-weight: 700;
+.font-medium {
+  font-weight: 500;
 }
 .font-extrabold {
   font-weight: 800;
 }
-.uppercase {
-  text-transform: uppercase;
+.font-bold {
+  font-weight: 700;
 }
 .text-secondary-content {
   --tw-text-opacity: 1;
@@ -1969,21 +1970,17 @@ html {
   --tw-text-opacity: 1;
   color: hsla(var(--nc) / var(--tw-text-opacity));
 }
-.text-red-500 {
+.text-secondary {
   --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
-}
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-.text-blue-500 {
-  --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+  color: hsla(var(--s) / var(--tw-text-opacity));
 }
 .text-primary {
   --tw-text-opacity: 1;
   color: hsla(var(--p) / var(--tw-text-opacity));
+}
+.text-success {
+  --tw-text-opacity: 1;
+  color: hsla(var(--su) / var(--tw-text-opacity));
 }
 .shadow-xl {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 10px 10px -5px rgb(0 0 0 / 0.04);
@@ -1996,6 +1993,12 @@ html {
 .shadow {
   --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px 0 rgb(0 0 0 / 0.06);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+:root {
+  --teal: #2a4f5f;
+  --pale-green: #9ef5ca;
+  --salmon: #f28879;
 }
 
 @media (min-width: 640px) {
