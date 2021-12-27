@@ -2,9 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --teal: #2a4f5f;
+  --pale-green: #9ef5ca;
+  --salmon: #f28879;
+}
+
 @layer base {
     @font-face {
-      font-family: Comfortaa;
-      src: url("/Comfortaa-VariableFont_wght.ttf");
+      font-family: Signika;
+      src: url("/Signika-VariableFont_wght.ttf");
+    }
+    @font-face {
+      font-family: Overpass;
+      src: url("/Overpass-VariableFont_wght.ttf");
+    }
+    @font-face {
+      font-family: OverpassItalic;
+      src: url("/Overpass-Italic-VariableFont_wght.ttf");
     }
 }

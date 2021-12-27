@@ -2,7 +2,7 @@
     <title>Big Climate Impact</title>
 </svelte:head>
 
-<h1 class="text-center text-5xl font-extrabold m-8">What can I do <span class="text-blue-500">right now</span><br>
+<h1 class="text-center text-5xl font-extrabold m-8">What can I do <span class="text-success">right now</span><br>
     to address climate change?
 </h1>
 
@@ -41,7 +41,7 @@
                     to make it harder to figure out what to do.
                 </p>
                 <div class="card-actions">
-                    <a class="btn btn-primary" href="/strategy">Make an impact</a>
+                    <a class="btn btn-secondary" href="/strategy">Make an impact</a>
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@
                     Even more? How much does it need?
                 </p>
                 <div class="card-actions">
-                    <a class="btn btn-primary" href="/economics">Economics</a>
+                    <a class="btn btn-secondary" href="/economics">Economics</a>
                 </div>
             </div>
         </div>
@@ -83,7 +83,7 @@
                     honesty work on the problem.
                     </p>
                 <div class="card-actions">
-                    <a class="btn btn-primary" href="/choosing">Good candidates</a>
+                    <a class="btn btn-secondary" href="/choosing">Good candidates</a>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
 </div>
 
 
-<h2 class="text-4xl m-8 text-blue-500 font-bold">Find your state, make an impact.</h2>
+<h2 class="text-4xl m-8 text-success font-bold">Find your state, make an impact.</h2>
 <div class="mx-auto">
     <ul class="grid grid-cols-2 text-center sm:grid-cols-3">
         <li><a href="/states/Alabama">Alabama</a></li>
@@ -110,7 +110,7 @@
         <li><a href="/states/Indiana">Indiana</a></li>
         <li><a href="/states/Iowa">Iowa</a></li>
         <li><a href="/states/Kansas">Kansas</a></li>
-        <li><a href="/states/Kentucky">Kentucky</a><span class="indicator-item badge badge-secondary"></span></li>
+        <li><a href="/states/Kentucky">Kentucky</a></li>
         <li><a href="/states/Louisiana">Louisiana</a></li>
         <li><a href="/states/Maine">Maine</a></li>
         <li><a href="/states/Maryland">Maryland</a></li>

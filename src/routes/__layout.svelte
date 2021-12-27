@@ -2,11 +2,11 @@
   import "../styles/tailwind-output.css";
 </script>
 
-<div class="navbar mb-2 shadow-lg bg-neutral text-center text-neutral-content border-b-2 border-b-red-500">
+<div class="navbar mb-2 shadow-lg bg-primary text-center text-neutral-content border-b-2 border-b-accent">
   <div class="px-2 mx-auto">
-    <span class="text-5xl font-bold uppercase" style="font-family: Comfortaa, sans">
-      <a href="/"><span class="text-red-500">Big </span><span class="text-white"> Climate </span><span class="text-blue-500">Impact</span></a>
-          </span>
+    <span class="text-5xl font-medium">
+      <a href="/"><span class="text-secondary" style="font-family: Signika, sans">Big Climate Impact</span></a>
+    </span>
   </div>
 </div>
 
