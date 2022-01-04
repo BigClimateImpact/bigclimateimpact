@@ -14,9 +14,6 @@
           </a> to stay up to date with our recommendations.
     </p>
     <ol>
-        <li>Enjoy the holidays! Seriously. There will be a lot to do in 2022,
-            and Congress isn't working now.
-        </li>
         <li><a href="/bbb21">Contact your Senator about Build Back Better (updated 12/20)</a></li>
         <li>Find your state below to prepare for the upcoming primary elections</li>
         <li>If you work for a large company, work with others to encourage the company to take climate action</li>
